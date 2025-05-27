@@ -61,4 +61,4 @@ jobs:
           app-name: 'wegotjokes1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F041831B162B45EC8C0A6497B3EC233A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4F4E2BC07894A598DFE91490C7A148E }}
